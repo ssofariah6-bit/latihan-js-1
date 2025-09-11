@@ -24,7 +24,7 @@ else{
 
 
 for(var nilai=0; nilai<=10; nilai++){
-    if(nilai>=9 && nilai<=10){
+    if(nilai>=9){
     console.log(nilai+ " Baik Sekali");}
 
     else if(nilai>=6 && nilai <=8){

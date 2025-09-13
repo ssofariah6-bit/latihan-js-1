@@ -1,3 +1,4 @@
+/*Menampilkan nama dan concatenate (menambah)*/
 const nama = "Sofariah";
 
 
